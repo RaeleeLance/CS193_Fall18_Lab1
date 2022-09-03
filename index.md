@@ -1,6 +1,7 @@
 # Raelee's First CS193 Homework
 - The TA's are so cool!
-- CS193 lecture always starts with something cool!
+- CS193 lecture always starts with something fun!
+- I have a friend in my lecture that I can sit by :)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
